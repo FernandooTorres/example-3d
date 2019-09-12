@@ -1,0 +1,15 @@
+{
+  "ver": "1.0.833",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "e9017b62-c552-46d1-9bec-bb8398eb795b",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/TypeScript/Initial.ts",
+    "importAsPlugin": false
+  }
+}

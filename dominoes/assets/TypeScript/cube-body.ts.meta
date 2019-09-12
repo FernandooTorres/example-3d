@@ -1,0 +1,15 @@
+{
+  "ver": "1.0.833",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "97ccd307-5ca7-4306-ae0c-3e611cb3332f",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/TypeScript/cube-body.ts",
+    "importAsPlugin": false
+  }
+}

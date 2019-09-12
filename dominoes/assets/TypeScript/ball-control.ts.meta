@@ -1,0 +1,15 @@
+{
+  "ver": "1.0.833",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "46b6740a-cb92-4324-9897-2d011901c9fd",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/TypeScript/ball-control.ts",
+    "importAsPlugin": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ver": "1.0.833",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "b710a6d2-0c53-4521-b536-40e98daa09a1",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/TypeScript/Ball-collider.ts",
+    "importAsPlugin": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ver": "1.0.833",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "c4e9e0cf-e8fa-4d0f-a162-c7d074b92d4c",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/TypeScript/Ground.ts",
+    "importAsPlugin": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ver": "1.0.833",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "67d0aecc-a8c5-4a0c-a108-049712f6fbfc",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/TypeScript/collider-disabled.ts",
+    "importAsPlugin": false
+  }
+}

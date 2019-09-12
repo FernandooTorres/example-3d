@@ -1,0 +1,15 @@
+{
+  "ver": "1.0.833",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "7f4be8a7-fd3f-448f-8a98-9f4846d67e8f",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/TypeScript/coordinate.ts",
+    "importAsPlugin": false
+  }
+}
